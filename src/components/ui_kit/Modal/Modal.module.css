@@ -1,0 +1,38 @@
+.Modal {
+    position: fixed;
+    background: rgba(1, 0, 0, .2);
+    top: 0px;
+    left: 550px;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+
+.active {
+    display: flex;
+}
+
+.closeButton {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 4px;
+    background: rgb(255, 0, 0);
+}
+
+.closeButton:hover {
+    background: rgb(197, 70, 70);
+    cursor: pointer;
+}
+
+.closeButton:active {
+    box-shadow:  inset -3px -3px 1px rgba(145, 13, 13, 0.3);
+}
+
+h1 {
+    font-size: 24px;
+}

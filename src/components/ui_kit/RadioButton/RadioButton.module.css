@@ -1,0 +1,23 @@
+.RadioButton {
+    float: left;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.RadioButton input {
+    float: left;
+    width: 15px;
+    margin: 0;
+}
+
+.RadioButton label {
+    float: left;
+
+}
+
+.RadioButtonQnt {
+    float: none;
+}

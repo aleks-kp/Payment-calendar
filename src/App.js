@@ -4,7 +4,7 @@ import {Period} from './components/Period/Period';
 import {Time} from './components/Time/Time';
 import {Quantity} from './components/Quantity/Quantity';
 import {Schedule} from './components/Schedule/Schedule';
-import {Header} from './components/UI/Header/Header';
+import {Header} from './components/ui_kit/Header/Header';
 
 
 

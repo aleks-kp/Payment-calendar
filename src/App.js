@@ -6,8 +6,6 @@ import {Quantity} from './components/Quantity/Quantity';
 import {Schedule} from './components/Schedule/Schedule';
 import {Header} from './components/ui_kit/Header/Header';
 
-
-
 function App() {
   
   return (
